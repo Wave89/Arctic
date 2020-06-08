@@ -60,3 +60,4 @@ library.read('SYMBOL', as_of='snapshot_name')
 
 # Delete a snapshot
 library.delete_snapshot('snapshot_name')
+print('Am Ende angekommen')

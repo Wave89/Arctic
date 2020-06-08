@@ -10,6 +10,12 @@
             "request": "launch",
             "program": ".\\Test.py",
             "args": []
+        }, {
+            "name": "Test2",
+            "type": "python",
+            "request": "launch",
+            "program": ".\\201507_demo_pydata.py",
+            "args": []
         },
     ]
 }
